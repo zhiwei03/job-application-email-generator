@@ -1,4 +1,4 @@
-<img width="1920" height="826" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/e8bc2481-f9e1-4745-87a2-282fbb800fa4" /># Job Application Email Generator
+# Job Application Email Generator
 
 Input:
 <img width="1920" height="836" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/106d1f83-785f-4668-964b-6b08a16ffaef" />
